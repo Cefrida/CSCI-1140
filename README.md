@@ -3,13 +3,13 @@ This repository is a compilation of all of my completed projects from my Compute
 
 **Contents**
 This intro level class covered:
-  Variables, objects, and object-oriented programming
-  Control flow
-  Functions
-  Built-in data structures including lists and dictionaries
-  Data structures from packages such as pandas
-  File input/output and file formats
-  Obtaining, cleaning, and exploring data
-  Processing of text data
-  Data Visualization
-  Testing and debugging
+  1. Variables, objects, and object-oriented programming
+  2. Control flow
+  3. Functions
+  4. Built-in data structures including lists and dictionaries
+  5. Data structures from packages such as pandas
+  6. File input/output and file formats
+  7. Obtaining, cleaning, and exploring data
+  8. Processing of text data
+  9. Data Visualization
+  10. Testing and debugging
