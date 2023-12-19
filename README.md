@@ -1,4 +1,4 @@
-# CSCI_1140
+# CSCI
 This repository is a compilation of all of my completed projects from my Computer Programming for Data Science class (CSCI 140) during my Sophomore year (Fall 2022). Prior to this class I had no experience with programming.
 
 **This intro level class covered:**
